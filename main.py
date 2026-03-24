@@ -25,4 +25,4 @@ for diena in dati:
 if pauze >=4: periodi +=1
 
 print("Dienas kad Marta devas skriet:", skreja)
-print("Periodi ar vismaz 4 dienam pec kartas kad skriešana izpalika:", periodi)
+print("Periodi ar vismaz 4 dienam pec kartas:", periodi)
