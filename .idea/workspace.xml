@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea93166b-c498-4205-b7da-fc7c047a60e7" name="Changes" comment="Izveidoju kodu">
+    <list default="true" id="ea93166b-c498-4205-b7da-fc7c047a60e7" name="Changes" comment="Izlaboju">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratons.txt" beforeDir="false" afterPath="$PROJECT_DIR$/maratons.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,11 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1774336945780</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Izveidoju kodu">
+      <option name="closed" value="true" />
+      <created>1774337279289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774337279289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Izlaboju">
+      <option name="closed" value="true" />
+      <created>1774337583313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774337583313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Izveidoju kodu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Izveidoju kodu" />
+    <MESSAGE value="Izlaboju" />
+    <option name="LAST_COMMIT_MESSAGE" value="Izlaboju" />
   </component>
 </project>
